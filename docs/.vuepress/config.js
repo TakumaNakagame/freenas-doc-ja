@@ -4,9 +4,10 @@ module.exports = {
   base: '/',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/'},
-      { text: 'Install', link: '/Install'},
-      { text: 'English/Official', link: 'https://www.ixsystems.com/documentation/freenas/'},
+      { text: 'ホーム', link: '/'},
+      { text: 'FreeNASについて', link: '/Introduction/'},
+      { text: 'インストール', link: '/Install/'},
+      { text: 'English/Official Site', link: 'https://www.ixsystems.com/documentation/freenas/'},
     ],
     sidebar: 'auto',
     sidebarDepth: 3,
