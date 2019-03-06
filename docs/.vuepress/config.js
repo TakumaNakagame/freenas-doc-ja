@@ -1,6 +1,6 @@
 module.exports = {
   title: 'FreeNAS 日本語ドキュメント',
-  description: '「FreeNASオフィシャルドキュメント」の日本語翻訳サイト',
+  description: 'FreeNAS 非公式日本語ドキュメント',
   base: '/',
   themeConfig: {
     nav: [
@@ -11,7 +11,7 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/TakumaNakagame/freenas-doc-ja'},
     ],
     sidebar: 'auto',
-    sidebarDepth: 3,
+    sidebarDepth: 4,
     displayAllHeaders: true,
     activeHeaderLinks: true
   }
