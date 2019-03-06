@@ -1,6 +1,6 @@
 module.exports = {
   title: 'FreeNAS 日本語ドキュメント',
-  description: 'FreeNASオフィシャルドキュメントの日本語翻訳版です',
+  description: '「FreeNASオフィシャルドキュメント」の日本語翻訳サイト',
   base: '/',
   themeConfig: {
     nav: [
